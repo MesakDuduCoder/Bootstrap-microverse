@@ -1,0 +1,23 @@
+#header {
+    background-image: url("./images/desktop-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#cardlang{
+    list-style: none;
+}
+#cardlang li a{
+    text-decoration: none;
+}
+#cardtop{
+    list-style: none;
+}
+#cardtop li a{
+    text-decoration: none;
+}
+#socials{
+    list-style: none;
+}
+#languages{
+    list-style: none;
+}
